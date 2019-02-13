@@ -1,0 +1,5 @@
+Connection String: <Your Connection String starts from here.>
+Hostname: cs5200-fall2018-cui.c0sd5hknxfrk.us-east-2.rds.amazonaws.com
+Port: 3306
+Username: jian
+Password: Cuijian1
